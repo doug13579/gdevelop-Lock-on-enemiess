@@ -148,8 +148,8 @@
           "name": "player",
           "persistentUuid": "2c8cc56f-5b3c-4fee-8f4a-a80a9009f89f",
           "width": 0,
-          "x": 349,
-          "y": 83,
+          "x": 121,
+          "y": 76,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -164,8 +164,8 @@
           "name": "player",
           "persistentUuid": "1f668abb-7994-40e5-899f-f44bb71e2250",
           "width": 0,
-          "x": 655,
-          "y": 508,
+          "x": 593,
+          "y": 298,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -180,8 +180,8 @@
           "name": "player",
           "persistentUuid": "b26b93eb-1327-4ba4-9500-dfb836b34cb9",
           "width": 0,
-          "x": 613,
-          "y": 318,
+          "x": 1186,
+          "y": 105,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -196,8 +196,8 @@
           "name": "player",
           "persistentUuid": "50b8e89c-dd13-4c86-a1a2-0534edb357fb",
           "width": 0,
-          "x": 210,
-          "y": 520,
+          "x": 93,
+          "y": 619,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -228,8 +228,8 @@
           "name": "player",
           "persistentUuid": "e5886e89-7ed1-4283-a780-c201b54bd825",
           "width": 0,
-          "x": 849,
-          "y": 209,
+          "x": 789,
+          "y": 621,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -692,8 +692,8 @@
           "name": "Enemy",
           "persistentUuid": "b52eb356-c060-4c70-bd45-70333c801744",
           "width": 0,
-          "x": 585,
-          "y": 422,
+          "x": 107,
+          "y": 224,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -758,6 +758,198 @@
           "width": 0,
           "x": 859,
           "y": 513,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "2f1c2f18-68f7-4aaf-ae31-3bb4701c4a79",
+          "width": 0,
+          "x": 585,
+          "y": 422,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "d7809afa-b3f2-4002-891e-79dd84702582",
+          "width": 0,
+          "x": 508,
+          "y": 356,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "f5c14411-491f-4c16-8cee-12c15bf613cd",
+          "width": 0,
+          "x": 354,
+          "y": 369,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "45d3e223-5a7e-44fd-bfe9-940b987e98de",
+          "width": 0,
+          "x": 231,
+          "y": 437,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "8b236c4d-a9b8-4471-bf13-5323753b4bae",
+          "width": 0,
+          "x": 688,
+          "y": 232,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "b806e543-6a35-4fc1-a706-a72111e39b9e",
+          "width": 0,
+          "x": 821,
+          "y": 245,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "ee460a0c-2fb9-4e39-a1aa-93bcc437d914",
+          "width": 0,
+          "x": 911,
+          "y": 386,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "41e20a31-2d9b-44c0-9fc4-0cfcfb83e03a",
+          "width": 0,
+          "x": 1059,
+          "y": 253,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "a495d568-0a1f-400e-aef4-78a2c5a676d0",
+          "width": 0,
+          "x": 450,
+          "y": 255,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "3a63d8f9-203f-46fe-852c-f83f4d59331f",
+          "width": 0,
+          "x": 346,
+          "y": 76,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "84bfa3b2-de62-4d58-b244-53f25a7dc345",
+          "width": 0,
+          "x": 83,
+          "y": 436,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Enemy",
+          "persistentUuid": "436c687e-b43b-41b0-b69d-870927dcefce",
+          "width": 0,
+          "x": 98,
+          "y": 290,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1097,52 +1289,91 @@
           "actions": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BooleanObjectVariable"
-              },
-              "parameters": [
-                "player",
-                "LockedOnTarget",
-                "=",
-                ""
-              ]
-            }
-          ],
-          "actions": [],
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Target",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::ForEach",
-              "object": "player",
+              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "PickNearest"
+                    "value": "BooleanObjectVariable"
                   },
                   "parameters": [
-                    "Enemy",
-                    "player.X()",
-                    "player.Y()",
+                    "player",
+                    "LockedOnTarget",
+                    "=",
                     ""
                   ]
                 }
               ],
-              "actions": [
+              "actions": [],
+              "events": [
                 {
-                  "type": {
-                    "value": "LinkedObjects::LinkObjects"
-                  },
-                  "parameters": [
-                    "",
-                    "player",
-                    "Enemy"
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "player",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PickNearest"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "player.X()",
+                        "player.Y()",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "LinkedObjects::LinkObjects"
+                      },
+                      "parameters": [
+                        "",
+                        "player",
+                        "Enemy"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "player",
+                        "LockedOnTarget",
+                        "True",
+                        ""
+                      ]
+                    }
                   ]
-                },
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Attack",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
                   "type": {
-                    "value": "SetBooleanObjectVariable"
+                    "value": "BooleanObjectVariable"
                   },
                   "parameters": [
                     "player",
@@ -1151,208 +1382,190 @@
                     ""
                   ]
                 }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BooleanObjectVariable"
-              },
-              "parameters": [
-                "player",
-                "LockedOnTarget",
-                "True",
-                ""
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::ForEach",
-              "object": "player",
-              "conditions": [],
-              "actions": [],
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "LinkedObjects::PickObjectsLinkedTo"
-                      },
-                      "parameters": [
-                        "",
-                        "Enemy",
-                        "player",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PrimitiveDrawing::LineV2"
-                      },
-                      "parameters": [
-                        "NewShapePainter",
-                        "player.X()",
-                        "player.Y()",
-                        "Enemy.X()",
-                        "Enemy.Y()",
-                        "3"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AddForceVers"
-                      },
-                      "parameters": [
-                        "player",
-                        "Enemy",
-                        "30",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "player",
-                "Enemy",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "Health::Health::Hit"
-              },
-              "parameters": [
-                "Enemy",
-                "Health",
-                "100",
-                "",
-                "",
-                ""
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::ForEach",
-              "object": "Enemy",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "Health::Health::IsDead"
-                  },
-                  "parameters": [
-                    "Enemy",
-                    "Health",
-                    ""
-                  ]
-                }
               ],
               "actions": [],
               "events": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AjoutObjConcern"
-                      },
-                      "parameters": [
-                        "",
-                        "player"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "LinkedObjects::PickObjectsLinkedTo"
-                      },
-                      "parameters": [
-                        "",
-                        "player",
-                        "Enemy",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanObjectVariable"
-                      },
-                      "parameters": [
-                        "player",
-                        "LockedOnTarget",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "LinkedObjects::RemoveAllLinksOf"
-                      },
-                      "parameters": [
-                        "",
-                        "Enemy"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "player",
                   "conditions": [],
-                  "actions": [
+                  "actions": [],
+                  "events": [
                     {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Enemy",
-                        ""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "LinkedObjects::PickObjectsLinkedTo"
+                          },
+                          "parameters": [
+                            "",
+                            "Enemy",
+                            "player",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PrimitiveDrawing::LineV2"
+                          },
+                          "parameters": [
+                            "NewShapePainter",
+                            "player.X()",
+                            "player.Y()",
+                            "Enemy.X()",
+                            "Enemy.Y()",
+                            "3"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceVers"
+                          },
+                          "parameters": [
+                            "player",
+                            "Enemy",
+                            "40",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ]
                 }
               ]
             }
-          ]
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Kill and free up player",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "player",
+                    "Enemy",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Enemy",
+                    "Health",
+                    "100",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "Enemy",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Health::Health::IsDead"
+                      },
+                      "parameters": [
+                        "Enemy",
+                        "Health",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AjoutObjConcern"
+                          },
+                          "parameters": [
+                            "",
+                            "player"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "LinkedObjects::PickObjectsLinkedTo"
+                          },
+                          "parameters": [
+                            "",
+                            "player",
+                            "Enemy",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "player",
+                            "LockedOnTarget",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "LinkedObjects::RemoveAllLinksOf"
+                          },
+                          "parameters": [
+                            "",
+                            "Enemy"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Enemy",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
